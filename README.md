@@ -35,4 +35,5 @@ Segundo Passo : cadastrar sua chave SSH no projeto
 
   1 - Digitem o seguinte comando : clip < ~/.ssh/id_rsa.pub , com esse comando ele automaticamente copia sua chave SSH
   
-  2 - Depois na pagina do projeto é so ir na aba Settings e lá vai ter keys ou algo parecido 
+  2 - Depois na pagina do projeto é so ir na aba Settings e lá vai ter Deploy Keys ai é so colocar a chave la e dar um nome para ela ex : joaoSSH 
+      obs : não se esqueçam de marcar a caixinha que aparece embaixo para vocês poderem subir arquivos se não vocês só vão ter direito de leitura.
